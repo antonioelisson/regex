@@ -1,0 +1,19 @@
+{
+  "name": "projetologin1",
+  "version": "1.0.0",
+  "description": "Atividade da matéria de Desenvolvimento Front End para criar uma validação de login básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioelisson/validacaoLogin1.git"
+  },
+  "author": "Elisson Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioelisson/validacaoLogin1/issues"
+  },
+  "homepage": "https://github.com/antonioelisson/validacaoLogin1#readme"
+}
